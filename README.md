@@ -109,4 +109,4 @@ streamlit run app.py
 
 ---
 
-*Built with ❤️ using XGBoost + SHAP + Streamlit*
+*Built with using XGBoost + SHAP + Streamlit*
